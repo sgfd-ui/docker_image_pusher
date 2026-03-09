@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run AutoVideoMiner",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/AutoVideoMiner/main.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
